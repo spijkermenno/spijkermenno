@@ -1,16 +1,18 @@
-### Hi there 👋
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=spijkermenno&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true">
 
-<!--
-**spijkermenno/spijkermenno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there I'm Menno 🍊:
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=orange&logo=Linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/spijkermenno/)
+[![LinkedIn](https://img.shields.io/static/v1?label=Portfolio&message=%20&color=blue&logo=Portfolio&style=flat-square&logoColor=blue)](https://mennospijker.nl/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+- 👨‍💻 22 Years old Developer
+
+- 👨‍🎓 Studying ICT Software Engineering at Saxion University of Applied Sciences  
+
+- Creator of Kenteken Scanner
+
+[![KentekenScanner](https://img.shields.io/static/v1?label=KentekenScanner%20iOS&message=%20&color=yellow&logo=KentekenScanner&style=flat-square&logoColor=yellow)](https://apps.apple.com/nl/app/kenteken-scanner/id1566888968)
+[![KentekenScanner](https://img.shields.io/static/v1?label=KentekenScanner%20Android&message=%20&color=yellow&logo=KentekenScanner&style=flat-square&logoColor=yellow)](https://play.google.com/store/apps/details?id=com.y_gap.menno.kentekenscanner&referrer=utm_source%3DGitHub%26utm_medium%3DProfile%26anid%3Dgithub)
+
+
