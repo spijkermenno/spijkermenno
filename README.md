@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/static/v1?label=Portfolio&message=%20&color=blue&logo=Portfolio&style=flat-square&logoColor=blue)](https://mennospijker.nl/)
 
   
-- 👨‍💻 22 Years old Developer
+- 👨‍💻 23 Years old Developer
 
 - 👨‍🎓 Studying ICT Software Engineering at Saxion University of Applied Sciences  
 
