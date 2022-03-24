@@ -9,6 +9,7 @@
 - 👨‍💻 23 Years old Developer
 
 - 👨‍🎓 Studying ICT Software Engineering at Saxion University of Applied Sciences  
+- I am currently doing an internship at Social Deal (till July 2022)
 
 - Creator of Kenteken Scanner
 
