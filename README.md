@@ -8,8 +8,8 @@
   
 - 👨‍💻 23 Years old Developer
 
-- 👨‍🎓 Studying ICT Software Engineering at Saxion University of Applied Sciences  
-- I am currently doing an internship at Social Deal (till July 2022)
+- 👨‍🎓 Studied ICT Software Engineering at Saxion University of Applied Sciences  
+- Currently working at Social Deal, Den Bosch.
 
 - Creator of Kenteken Scanner and Tranquilo
 
