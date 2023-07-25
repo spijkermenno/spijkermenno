@@ -6,13 +6,14 @@
 [![LinkedIn](https://img.shields.io/static/v1?label=Portfolio&message=%20&color=blue&logo=Portfolio&style=flat-square&logoColor=blue)](https://mennospijker.nl/)
 
   
-- 👨‍💻 24 Years old Developer
+- 👨‍💻 25 Years old Developer
 
 - 👨‍🎓 Studied ICT Software Engineering at Saxion University of Applied Sciences  
 - Currently working at Social Deal, Den Bosch.
 
 - Creator of Kenteken Scanner and Tranquilo
 - Currently working on MoneyMaster
+- Maintainer of the Jetpack Compose Currency Selector package [![Jitpack.io](https://github.com/spijkermenno/currency-selector-android-Jetpack-compose)]
 
 [![KentekenScanner](https://img.shields.io/static/v1?label=KentekenScanner%20iOS&message=%20&color=yellow&logo=KentekenScanner&style=flat-square&logoColor=yellow)](https://apps.apple.com/nl/app/kenteken-scanner/id1566888968)
 [![KentekenScanner](https://img.shields.io/static/v1?label=KentekenScanner%20Android&message=%20&color=yellow&logo=KentekenScanner&style=flat-square&logoColor=yellow)](https://play.google.com/store/apps/details?id=com.y_gap.menno.kentekenscanner&referrer=utm_source%3DGitHub%26utm_medium%3DProfile%26anid%3Dgithub)
