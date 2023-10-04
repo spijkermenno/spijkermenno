@@ -15,7 +15,7 @@
 - Currently working on MoneyMaster
 - Maintainer of the Jetpack Compose Currency Selector package (Jitpack.io)
 
-[![](https://jitpack.io/v/spijkermenno/currency-selector-android-Jetpack-compose.svg)](https://jitpack.io/#spijkermenno/currency-selector-android-Jetpack-compose)
+[![Compose currency selector](https://jitpack.io/v/spijkermenno/currency-selector-android-Jetpack-compose.svg)](https://jitpack.io/#spijkermenno/currency-selector-android-Jetpack-compose)
 [![KentekenScanner](https://img.shields.io/static/v1?label=KentekenScanner%20iOS&message=%20&color=yellow&logo=KentekenScanner&style=flat-square&logoColor=yellow)](https://apps.apple.com/nl/app/kenteken-scanner/id1566888968)
 [![KentekenScanner](https://img.shields.io/static/v1?label=KentekenScanner%20Android&message=%20&color=yellow&logo=KentekenScanner&style=flat-square&logoColor=yellow)](https://play.google.com/store/apps/details?id=com.y_gap.menno.kentekenscanner&referrer=utm_source%3DGitHub%26utm_medium%3DProfile%26anid%3Dgithub)
 [![Tranquilo](https://img.shields.io/static/v1?label=Tranquilo%20iOS&message=%20&color=blue&logo=Tranquilo&style=flat-square&logoColor=blue)](https://apps.apple.com/nl/app/tranquilo/id1566716521)
