@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/static/v1?label=Portfolio&message=%20&color=blue&logo=Portfolio&style=flat-square&logoColor=blue)](https://mennospijker.nl/)
 
   
-- 👨‍💻 25 Years old Developer
+- 👨‍💻 27 Years old Developer
 
 - 👨‍🎓 Studied ICT Software Engineering at Saxion University of Applied Sciences  
 - Currently working at Social Deal, Den Bosch.
