@@ -9,9 +9,6 @@
 - 👨‍💻 27 Years old Developer
 
 - 👨‍🎓 Studied ICT Software Engineering at Saxion University of Applied Sciences  
-- Currently working at ASN Bank, Den Bosch.
-
-[![Compose currency selector](https://jitpack.io/v/spijkermenno/currency-selector-android-Jetpack-compose.svg)](https://jitpack.io/#spijkermenno/currency-selector-android-Jetpack-compose)
-[![KentekenScanner](https://img.shields.io/static/v1?label=KentekenScanner%20iOS&message=%20&color=yellow&logo=KentekenScanner&style=flat-square&logoColor=yellow)](https://apps.apple.com/nl/app/kenteken-scanner/id1566888968)
-[![KentekenScanner](https://img.shields.io/static/v1?label=KentekenScanner%20Android&message=%20&color=yellow&logo=KentekenScanner&style=flat-square&logoColor=yellow)](https://play.google.com/store/apps/details?id=com.y_gap.menno.kentekenscanner&referrer=utm_source%3DGitHub%26utm_medium%3DProfile%26anid%3Dgithub)
+- Currently working at ASN Bank, Den Bosch till October 1st.
+- Looking for a new job!
 
